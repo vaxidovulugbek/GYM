@@ -4,7 +4,10 @@ import "./styles.scss";
 const Header: React.FC = () => {
 	return (
 		<>
-			<header className="header">header</header>
+			<header className="header flex">
+				<span>llllll</span>
+				<p>jhkjhkjh</p>
+			</header>
 		</>
 	);
 };
